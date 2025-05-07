@@ -268,13 +268,9 @@ Please follow the code style and include tests for new features. 📝
 
 ## 👥 Team
 
-Clouda was built by a talented team for a mid-semester project submission:
+Clouda was built by a team of two for a semester project submission:
 - **Tejas Jaiswal**
-- **Md. Ashif**
 - **Dhruv Sharma**
-- **Raiyaan Tarique**
-
-Thank you for your hard work! 🙌
 
 ---
 
